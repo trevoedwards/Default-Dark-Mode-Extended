@@ -21,5 +21,5 @@ Since this pack **only** replaces GUI's, it can be used with other texture packs
 
 This pack was inspired by and intended to be used alongside nebuIr's [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) resource pack. All credit for color pallet and design goes to [nebuIr](https://legacy.curseforge.com/members/nebulr/projects). 
 
-This pack was created for Minecraft 1.12.2, but can likely be used on other versions. **Your mileage may vary**. 
+It was created for Minecraft 1.12.2, but can likely be used on other versions. **Your mileage may vary**. 
 <br>
