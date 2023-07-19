@@ -1,0 +1,24 @@
+v-1.1 - 07/19/23
+Fixed file pathing for Chance Cubes
+Added Dark Mode textures for the following mods:
+	- Chisel
+	- ChocoCraft
+	- Doggy Talents
+	- ExtraPlanets [Galacticraft add-on]
+	- Floodlights
+	- FTBQuests
+	- GalaxySpace [Galacticraft add-on]
+	- Grappling Hook Mod
+	- Inventory Pets
+	- Modular Force Field System
+	- More Planets [Galacticraft add-on]
+	- OpenSecurity
+	- Planet Progression [Galacticraft add-on]
+	- Refined Storage
+	- Storage Drawers
+	- Subpocket
+	- Titles
+	- Traveler's Backpack
+
+v-1.0 - 12/25/21
+Resource pack creation. 
